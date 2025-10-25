@@ -1,0 +1,3 @@
+RMSE (dollars): 131396.005784042
+MAE  (dollars): 103475.0234375
+Root Mean Squared Error (Raw): 0.30048614739226626
